@@ -9,7 +9,7 @@ programa {
     escreva("Qual a sua Idade? ")
     leia(idade)
 
-    se(idade >18)
+    se(idade >=18)
     {
       escreva("Você é Maior de Idade.")
     }
